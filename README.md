@@ -6,8 +6,8 @@ using randomly generated numbers.
 Example interactions:
 
 Given:
-m = 10
-x = 3
+m = 10,
+x = 3,
 b = 2
 
 What is the value of y? 32
@@ -15,8 +15,8 @@ Correct!
 
 Given:
 
-m = 6
-x = 9
+m = 6,
+x = 9,
 b = 3
 
 What is the value of y? 52
