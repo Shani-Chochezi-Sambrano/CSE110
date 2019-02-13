@@ -2,6 +2,7 @@
 
 The educational app allows a high school algebra student to practice solving the slope intercept form y = m * x + b 
 using randomly generated numbers.
+
 Example interactions:
 
 Given:
